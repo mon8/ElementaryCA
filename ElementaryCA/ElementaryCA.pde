@@ -35,8 +35,8 @@ CA ca;
 
 void setup() {
   
-  fullScreen();
-  //size(1024,576);
+  //fullScreen();
+  size(1024,576);
   background(colBG);
   frameRate(60);
   
