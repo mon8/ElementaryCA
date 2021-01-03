@@ -8,7 +8,7 @@ This program can be run through the Processing Development Environment (PDE). It
 
 ### How to use
 ![Menu page](/images/menu.png)
-Above is the menu page. Click on each condition to alter its respective result. Not sure what this means? Learn about elementary cellular automata and how rules are classified [here](https://mathworld.wolfram.com/ElementaryCellularAutomaton.html). Click the square with the number in it to alter the size of the cells in your cellular automata (the size is in pixels<sup>2</sup>).
+Above is the menu page. Click on each condition to alter its respective result. Not sure what this means? Learn about elementary cellular automata and how rules are classified [here](https://mathworld.wolfram.com/ElementaryCellularAutomaton.html). See that tile with the number inside it? Click that to alter the size of the cells in your cellular automata (the size is given in pixels<sup>2</sup>).
 When you're ready, press ENTER to generate your elementary cellular automata.
 
 ![CA page](/images/rule30.png)
