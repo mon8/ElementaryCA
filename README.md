@@ -13,6 +13,9 @@ Above is the result for Rule 30 with a cell-size of 1.
 
 ### References
 [Cellular Automaton - MathWorld](https://mathworld.wolfram.com/CellularAutomaton.html)
+
 [Elementary Cellular Automaton - MathWorld](https://mathworld.wolfram.com/ElementaryCellularAutomaton.html)
+
 [Rule 110 - Wikipedia](https://en.wikipedia.org/wiki/Rule_110)
+
 [A New Kind of Science (2002) - Stephen Wolfram](https://www.wolframscience.com/)
