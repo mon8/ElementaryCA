@@ -8,8 +8,13 @@ This program can be run through the Processing Development Environment (PDE). It
 
 ### How to use
 ![Menu page](/images/menu.png)
-Above is the menu page. Click on each condition to alter its respective result. Not sure what this means? Learn about elementary cellular automata and how rules are classified [here](https://mathworld.wolfram.com/ElementaryCellularAutomaton.html). See that tile with the number inside it? Click that to alter the size of the cells in your cellular automata (the size is given in pixels<sup>2</sup>).
+Above is the menu page. The default rule is Rule 110. [That's an interesting one.](https://en.wikipedia.org/wiki/Rule_110) Click on each condition to alter its respective result. Click the larger tile with the number in it to alter the size of the cells - left-click increases the size, right-click decreases.
 When you're ready, press ENTER to generate your elementary cellular automata.
 
 ![CA page](/images/rule30.png)
 Above is the result for Rule 30 with a cell-size of 1.
+
+###References
+[Cellular Automaton - MathWorld](https://mathworld.wolfram.com/CellularAutomaton.html)
+[Elementary Cellular Automaton - MathWorld](https://mathworld.wolfram.com/ElementaryCellularAutomaton.html)
+[A New Kind of Science (2002) - Stephen Wolfram](https://www.wolframscience.com/)
